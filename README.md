@@ -11,6 +11,7 @@ Link the css file with html code using link tag
 ### STEP 4:
 Run the code and check the webpage in an web browser.
 ## PROGRAM:
+### HTML:
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -87,6 +88,7 @@ Run the code and check the webpage in an web browser.
     </body>
 </html>
 ```
+### CSS:
 ```css
 .container {
     width: 1080px;
